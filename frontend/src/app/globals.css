@@ -1,0 +1,7 @@
+body {
+  background-color: #f3f4f6; /* Equivalent to bg-gray-100 */
+  color: #111827; /* Equivalent to text-gray-900 */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
